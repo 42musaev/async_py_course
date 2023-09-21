@@ -1,7 +1,6 @@
 import asyncio
 from random import randint
 
-
 class Pizzeria:
     def __init__(self, name: str):
         self.name = name
